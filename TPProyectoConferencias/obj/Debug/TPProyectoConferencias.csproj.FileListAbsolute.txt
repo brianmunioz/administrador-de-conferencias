@@ -1,0 +1,22 @@
+C:\Users\Leonardo.000\Desktop\TPractico_Blanco_Guillermina\TPProyectoConferencias\TPProyectoConferencias\bin\Debug\TPProyectoConferencias.exe.config
+C:\Users\Leonardo.000\Desktop\TPractico_Blanco_Guillermina\TPProyectoConferencias\TPProyectoConferencias\bin\Debug\TPProyectoConferencias.exe
+C:\Users\Leonardo.000\Desktop\TPractico_Blanco_Guillermina\TPProyectoConferencias\TPProyectoConferencias\bin\Debug\TPProyectoConferencias.pdb
+C:\Users\Leonardo.000\Desktop\TPractico_Blanco_Guillermina\TPProyectoConferencias\TPProyectoConferencias\obj\Debug\TPProyectoConferencias.csprojAssemblyReference.cache
+C:\Users\Leonardo.000\Desktop\TPractico_Blanco_Guillermina\TPProyectoConferencias\TPProyectoConferencias\obj\Debug\TPProyectoConferencias.Form1.resources
+C:\Users\Leonardo.000\Desktop\TPractico_Blanco_Guillermina\TPProyectoConferencias\TPProyectoConferencias\obj\Debug\TPProyectoConferencias.Form2.resources
+C:\Users\Leonardo.000\Desktop\TPractico_Blanco_Guillermina\TPProyectoConferencias\TPProyectoConferencias\obj\Debug\TPProyectoConferencias.Properties.Resources.resources
+C:\Users\Leonardo.000\Desktop\TPractico_Blanco_Guillermina\TPProyectoConferencias\TPProyectoConferencias\obj\Debug\TPProyectoConferencias.csproj.GenerateResource.cache
+C:\Users\Leonardo.000\Desktop\TPractico_Blanco_Guillermina\TPProyectoConferencias\TPProyectoConferencias\obj\Debug\TPProyectoConferencias.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo.000\Desktop\TPractico_Blanco_Guillermina\TPProyectoConferencias\TPProyectoConferencias\obj\Debug\TPProyectoConferencias.exe
+C:\Users\Leonardo.000\Desktop\TPractico_Blanco_Guillermina\TPProyectoConferencias\TPProyectoConferencias\obj\Debug\TPProyectoConferencias.pdb
+C:\Users\black rose\Desktop\TPProyectoConferencias\TPProyectoConferencias\bin\Debug\TPProyectoConferencias.exe.config
+C:\Users\black rose\Desktop\TPProyectoConferencias\TPProyectoConferencias\bin\Debug\TPProyectoConferencias.exe
+C:\Users\black rose\Desktop\TPProyectoConferencias\TPProyectoConferencias\bin\Debug\TPProyectoConferencias.pdb
+C:\Users\black rose\Desktop\TPProyectoConferencias\TPProyectoConferencias\obj\Debug\TPProyectoConferencias.csprojAssemblyReference.cache
+C:\Users\black rose\Desktop\TPProyectoConferencias\TPProyectoConferencias\obj\Debug\TPProyectoConferencias.Form2.resources
+C:\Users\black rose\Desktop\TPProyectoConferencias\TPProyectoConferencias\obj\Debug\TPProyectoConferencias.Properties.Resources.resources
+C:\Users\black rose\Desktop\TPProyectoConferencias\TPProyectoConferencias\obj\Debug\TPProyectoConferencias.csproj.GenerateResource.cache
+C:\Users\black rose\Desktop\TPProyectoConferencias\TPProyectoConferencias\obj\Debug\TPProyectoConferencias.csproj.CoreCompileInputs.cache
+C:\Users\black rose\Desktop\TPProyectoConferencias\TPProyectoConferencias\obj\Debug\TPProyectoConferencias.exe
+C:\Users\black rose\Desktop\TPProyectoConferencias\TPProyectoConferencias\obj\Debug\TPProyectoConferencias.pdb
+C:\Users\black rose\Desktop\TPProyectoConferencias\TPProyectoConferencias\obj\Debug\TPProyectoConferencias.ConferenciasForm.resources
